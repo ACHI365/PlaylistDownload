@@ -1,4 +1,4 @@
-*.Python linguist-detectable=true
+*.html linguist-detectable=false
 *.bibtex linguist-detectable=false
 
 

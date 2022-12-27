@@ -1,4 +1,5 @@
 *.Python linguist-detectable=true
-*.html linguist-detectable=true
+*.TeX linguist-detectable=false
+
 
 

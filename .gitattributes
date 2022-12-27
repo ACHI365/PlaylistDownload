@@ -1,5 +1,5 @@
 *.html linguist-detectable=false
-*.bib linguist-detectable=false
+*.latex linguist-detectable=false
 
 
 
